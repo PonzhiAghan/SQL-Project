@@ -1,2 +1,2 @@
 # SQL-Projects
-A Folder containing the projects I have worked during a 5 week bootcamp
+A Folder containing the projects I worked on during a 5 week bootcamp
